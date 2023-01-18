@@ -1,1 +1,5 @@
-remote_theme: pages-themes/minimal@v0.2.0
+title: Arturo Téllez Cortés
+logo: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-minima
